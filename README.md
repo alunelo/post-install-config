@@ -119,96 +119,52 @@
 <br />
 
 <p>
-<img src="https://imgur.com/asHapqJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/eVJHXPl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b>STEP 14</b> - Extracting osTicket Files.
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/mz5PHuU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<b>STEP 15</b> - Installing Upload Folder Into ISS (Internet Information Services).
+<b>STEP 14</b> - Configuring Sev-A SLA.
 </p>
 <br />
 
 <p>
-<img src="https://imgur.com/uIuXoWx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/kUgvD0g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b>**STEP 16**</b> - OsTicket Installer Ready To Get Configure.
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/gaPBAQs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<b>STEP 17</b> - Enabling <b>php_imap.dll</b> PHP Extension.
-</p>
-<br />
-
-
-<p>
-<img src="https://imgur.com/Xs5UURm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<b>STEP 18</b> - Enabling <b>php_intl.dll</b> PHP Extension.
+<b>STEP 15</b> - Configuring Sev-B SLA.
 </p>
 <br />
 
 <p>
-<img src="https://imgur.com/ESq0xLl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/kM6CTH3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b>STEP 19</b> - Enabling <b>php_opcache.dll</b> PHP Extensions.
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/8hn7Krb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<b>STEP 20</b> - We Now Notice That More Extensions Than STEP 16.
+<b>**STEP 16**</b> - Configuring Sev-C SLA.
 </p>
 <br />
 
 <p>
-<img src="https://imgur.com/9PpUCt0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/KA7DM6J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b>STEP 21</b> - Setting Explicit Permissions.
-</p>
-<br />
-
-<p> 
-<img src=https://imgur.com/5WfmsIU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<b>STEP 22</b> - Setting <b>Everyone</b> As Permissions.
-<p>
-<br />
-
-<p>
-<img src="https://imgur.com/8o2xK8j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<b>STEP 23</b> - Setting Up Admin User Account For Basic Installation.
-<p>
-<br />
-
-<p>
-<img src="https://imgur.com/MeexuPS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<b>STEP 24</b> - Installing <b>HeidiSQL</b>.
+<b>STEP 17</b> - Adding a New Help Topic.
 </p>
 <br />
 
 <p>
-<img src="https://imgur.com/TuVN2BZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/FBKgoQM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b>STEP 25</b> - Opened HeidiSQL Graphic Interface.
+<b>STEP 18</b> - Adding a New Help <b>"Business Critical Outage"</b>
 </p>
 <br />
+
+<p>
+<img src="https://imgur.com/QTdFg39.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<b>STEP 19</b> - Adding a New Help Topic Adding a New Help <b>"Personal Computer Outage"</b>.
+</p>
+<br />
+
+
+
